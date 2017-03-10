@@ -1,3 +1,22 @@
 page-home {
 
+  ion-content {
+    background: url(../assets/img/mS31wVwfSsGWiAPxggmg_splash.JPG) no-repeat center;
+    background-size: cover;
+
+    
+  }
+
+  h2, p {
+  
+      padding: 5%;
+      background-color: hsla(50, 33%, 100%, 0.75);
+      margin-top: 1rem;
+    }
+.scroll-bar-indicator
+{
+	display: none;
+}
+  
+
 }
